@@ -20,13 +20,13 @@ const HomePage = () => (
         </div>
         <div className='recipe-item'>
             <div className='recipe'>
-                <h1 className='title'>FISH</h1>
+                <h1 className='title'>FISH DISHES</h1>
                 <span className='subtitle'>RECIPES</span>
             </div>
         </div>
         <div className='recipe-item'>
             <div className='recipe'>
-                <h1 className='title'>SIDES</h1>
+                <h1 className='title'>SIDE DISHES</h1>
                 <span className='subtitle'>RECIPES</span>
             </div>
         </div>
