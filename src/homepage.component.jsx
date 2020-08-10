@@ -32,7 +32,7 @@ const HomePage = () => (
         </div>
         <div className='recipe-item'>
             <div className='recipe'>
-                <h1 className='title'>DESSERT</h1>
+                <h1 className='title'>DESSERTS</h1>
                 <span className='subtitle'>RECIPES</span>
             </div>
         </div>
