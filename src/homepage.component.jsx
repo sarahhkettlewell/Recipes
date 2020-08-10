@@ -8,7 +8,7 @@ const HomePage = () => (
     <div className='directory-menu'>
         <div className='recipe-item'>
             <div className='recipe'>
-                <h1 className='title'>CURRY</h1>
+                <h1 className='title'>CURRY Dishes</h1>
                 <span className='subtitle'>RECIPES</span>
             </div>
         </div>
